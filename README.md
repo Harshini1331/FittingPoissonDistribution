@@ -64,5 +64,5 @@ else:
 ![image](https://user-images.githubusercontent.com/75235554/168961434-65cf188b-68bb-4d63-8b39-a3149901f542.png)
 
 # Result :
-Thus, fitting poisson distribution for the given frequencey distribution is verified.
+Thus, fitting poisson distribution for the given frequency distribution is verified.
  
